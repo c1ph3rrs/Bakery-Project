@@ -1,0 +1,87 @@
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\bin\Debug\Database\MartDB.mdf
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.exe.config
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.exe
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.pdb
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.loginForm.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.homePage.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.Properties.Resources.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.searchProduct.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addEmployee.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addStockUC.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.attendanceUC.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.detail.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.EmployeesInfo.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.homepagemainPanel.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.Revenue.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.saledataUC.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.stockUC.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.GenerateResource.cache
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CopyComplete
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.exe
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.pdb
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.settings.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.aboutDeveloper.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.otherLoginUC.resources
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csprojAssemblyReference.cache
+C:\Users\Cipher's\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CoreCompileInputs.cache
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Database\MartDB.mdf
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.exe.config
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.exe
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.pdb
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csprojAssemblyReference.cache
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.loginForm.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.homePage.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.Properties.Resources.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.searchProduct.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.aboutDeveloper.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addEmployee.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addStockUC.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.attendanceUC.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.detail.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.EmployeesInfo.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.homepagemainPanel.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.otherLoginUC.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.Revenue.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.saledataUC.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.settings.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.stockUC.resources
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.GenerateResource.cache
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CoreCompileInputs.cache
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CopyComplete
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.exe
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.pdb
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.exe.manifest
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\bin\Debug\Bakery System.application
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.exe.manifest
+C:\Users\Ciphers\source\repos\Bakery System\Bakery System\obj\Debug\Bakery System.application
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Database\MartDB.mdf
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Bakery System.exe.config
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Bakery System.exe.manifest
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Bakery System.application
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Bakery System.exe
+S:\Rabia Traders\Bakery System\Bakery System\bin\Debug\Bakery System.pdb
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.csprojAssemblyReference.cache
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.loginForm.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.homePage.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.Properties.Resources.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.searchProduct.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.aboutDeveloper.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addEmployee.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.addStockUC.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.attendanceUC.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.detail.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.EmployeesInfo.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.homepagemainPanel.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.otherLoginUC.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.Revenue.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.saledataUC.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.settings.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery_System.UserControlls.stockUC.resources
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.GenerateResource.cache
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CoreCompileInputs.cache
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.exe.manifest
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.application
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.csproj.CopyComplete
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.exe
+S:\Rabia Traders\Bakery System\Bakery System\obj\Debug\Bakery System.pdb
